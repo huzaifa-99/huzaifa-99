@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Huzaifa
 
-<!--
-**huzaifa-99/huzaifa-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Software Engineer focused on TypeScript, Node.js, React, Python, and infrastructure.
 
-Here are some ideas to get you started:
+I build production systems, APIs, SaaS products, and occasionally homelab setups.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+
+TypeScript · JavaScript · Python · SQL  
+Node.js · React · Next.js  
+PostgreSQL · MySQL · MongoDB · Redis  
+AWS · Docker · Linux · Nginx
+
+### Find me
+
+[Website](https://rhuzaifa.com) · [LinkedIn](https://linkedin.com/in/huzaifa-rasheed) · [X](https://x.com/huzRasheed)
